@@ -1,0 +1,21 @@
+﻿
+#region Workflow
+EmployeeManagementSystem
+
+│
+├── Models
+│     Employee.cs
+│     Manager.cs
+│
+├── Interfaces
+│     IWorker.cs
+│
+├── Repository
+│     IRepository.cs
+│     Repository.cs
+│
+├── Delegates
+│     SalaryDelegate.cs
+│
+└── Program.cs
+#region
